@@ -92,7 +92,7 @@ class Circle(Shape):
 
 
 def main():
-    # Програма сама пройдеться по черзі по всіх трьох файлах з твоєї папки lab
+    # Програма сама пройдеться по черзі по всіх трьох файлах з твоєї папки lab1
     files = files = ["input01.txt", "input02.txt", "input03.txt"]
 
     for filename in files:
