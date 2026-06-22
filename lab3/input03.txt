@@ -1,0 +1,5 @@
+Circle 10
+Ball 2
+Rectangle 20 30
+RectangularParallelepiped 2 2 2
+Triangle 6 8 10

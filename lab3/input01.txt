@@ -1,0 +1,5 @@
+Triangle 3 4 5
+Rectangle 4 5
+Circle 3
+Ball 5
+Cone 3 4

@@ -1,0 +1,6 @@
+Trapeze 6 8 5 5
+Parallelogram 4 6 5
+TriangularPyramid 6 10
+QuadrangularPyramid 4 8
+RectangularParallelepiped 3 4 5
+TriangularPrism 3 4 5 10
