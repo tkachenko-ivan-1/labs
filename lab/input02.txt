@@ -1,0 +1,8 @@
+Rectangle 5.5 8.2
+Circle 3.5
+Triangle 6.0 8.0 10.0
+Parallelogram 12.0 7.0 5.5
+Trapeze 15.0 9.0 5.0 5.0
+Circle 1.2
+Rectangle 10.0 10.0
+Triangle 3.0 3.0 3.0
