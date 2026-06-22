@@ -15,7 +15,6 @@ class Triangle(Shape):
         return self.a + self.b + self.c
     def get_area(self):
         p = self.get_perimeter() / 2
-        # Захист від від'ємного виразу під коренем (якщо фігура некоректна)
         val = p * (p - self.a) * (p - self.b) * (p - self.c)
         return math.sqrt(val) if val > 0 else 0
 class Rectangle(Shape):
